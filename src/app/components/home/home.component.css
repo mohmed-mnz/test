@@ -1,0 +1,13 @@
+.container-background {
+    background-image: url('../../../../src/assets/Images/bg.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    position: relative;
+  }
+
+  .container-content {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10% 15%
+  }
